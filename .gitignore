@@ -1,0 +1,15 @@
+# Dependencies and tools
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs and coverage output
+*.log
+coverage/
+.nyc_output/
